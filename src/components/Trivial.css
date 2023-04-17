@@ -1,0 +1,20 @@
+.c-trivial {
+}
+
+.c-trivial__answer {
+  padding: 16px;
+}
+
+.c-trivial__answer--selected {
+  background-color: rgb(195, 127, 255);
+}
+
+.c-trivial__answer--true {
+  background-color: rgb(133, 255, 161);
+
+}
+
+.c-trivial__answer--false {
+  background-color: rgb(255, 133, 133);
+}
+

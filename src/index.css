@@ -11,3 +11,18 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+.u-disabled{
+  pointer-events: none;
+  opacity: .25;
+}
+
+
+.b-btn{
+  background-color: rgb(195, 127, 255);
+  padding: 32px 64px;
+  font-size: 32px;
+  color: white;
+  border: 0;
+}
